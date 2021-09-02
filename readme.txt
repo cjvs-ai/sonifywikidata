@@ -1,5 +1,3 @@
-Christoph Schettler MSc Project
-
 Program for sonification of humans on Wikidata.
 
 Instructions for use:
